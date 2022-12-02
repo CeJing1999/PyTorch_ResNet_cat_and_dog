@@ -1,0 +1,2 @@
+# PyTorch_ResNet_cat_and_dog
+基于ResNet paper和PyTorch实现的ResNet网络，用于猫狗分类任务。
