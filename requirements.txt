@@ -1,0 +1,7 @@
+torch
+torchvision
+tqdm
+tensorboardx
+torchsummary
+numpy
+pillow
