@@ -3,4 +3,4 @@
 
 
 # 使用说明
-pip install -r requirements
+pip install -r requirements.txt
